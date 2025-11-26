@@ -1,0 +1,19 @@
+{
+  "productName": "Single Window Example",
+  "version": "0.1.0",
+  "identifier": "com.example.single-window",
+  "build": {
+    "frontendDist": "../src"
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "title": "Single Window Example",
+        "width": 900,
+        "height": 600,
+        "resizable": true
+      }
+    ]
+  }
+}
