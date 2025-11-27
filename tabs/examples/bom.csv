@@ -1,0 +1,11 @@
+Material,QTY,Unit cost,Line total,Lead time,Min QTY.,D(Δ)
+Material Item 1,10,45.40,454,14,100,90
+Material Item 2,4,32.22,128.88,14,10,6
+Material Item 3,5,15.94,79.7,14,25,20
+Material Item 4,24,18.11,434.64,14,1,-23
+Material Item 5,33,24.29,801.57,14,20,-13
+Material Item 6,71,9.76,692.96,21,50,-21
+Material Item 7,11,0.88,9.68,28,50,39
+Material Item 8,9,9.26,83.34,7,10,1
+Material Item 9,7,110.10,770.7,14,12,5
+Material Item 10,1,1143.00,1143,14,5,4

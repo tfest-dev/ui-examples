@@ -1,0 +1,11 @@
+[package]
+name = "tabs_ui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Pin iced to a 0.12 release that still exposes the `Sandbox` trait used in main.rs.
+iced = { version = "0.12", features = ["wgpu", "tokio", "image"] }
+tabs_backend = { path = "../rust" }
+pdfium = "0.9.5"
+image = "0.25"
